@@ -1,4 +1,6 @@
-# ECE 2049: Embedded Computing in Engineering Design
+# ECE-2049
+
+ECE 2049: Embedded Computing in Engineering Design
 
 ECE 2049 Labs:
 
