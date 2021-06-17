@@ -1,6 +1,6 @@
 # ECE 2049: Embedded Computing in Engineering Design
 
-ECE 2049 Labs:
+ECE 2049 Labs, Made for MSP430F5529 Board:
 
 1: Simon\
 2: Music Box\
